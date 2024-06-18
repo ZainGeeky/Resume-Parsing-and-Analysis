@@ -13,4 +13,4 @@ Ensure you have the following libraries installed:
 - **scikit-learn**: Useful for various machine learning tasks such as text vectorization and similarity scoring (if needed).
 - **Other standard Python libraries**: Like `random` for shuffling data during training, and `spacy.training.example.Example` for creating training examples.
 
-You can install these libraries using pip:
+You can install these libraries using pip.
