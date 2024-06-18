@@ -1,4 +1,4 @@
-#Resume Parsing and Matching with Job Descriptions using spaCy
+Resume Parsing and Matching with Job Descriptions using spaCy
 
 This project focuses on extracting key information (name, education, work experience, skills) from resumes and matching them with job descriptions using spaCy, a powerful NLP library in Python.
 
